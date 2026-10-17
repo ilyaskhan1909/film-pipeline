@@ -9,7 +9,7 @@ Git содержит код, промпты в исходниках, монта�
 референсы и отчёты находятся в отдельном `film-assets.zip`; веса в Git не входят.
 
 ```powershell
-git clone <URL-репозитория> film-pipeline
+git clone https://github.com/ilyaskhan1909/film-pipeline.git film-pipeline
 cd film-pipeline
 # Без GitHub: git clone /путь/film-pipeline.bundle film-pipeline
 python tools/project_transfer.py restore /путь/film-assets.zip
@@ -24,7 +24,8 @@ NVIDIA с подходящим драйвером, Docker с доступом к
 Клонируйте в обычную папку пользователя, не в OneDrive и не поверх прежних результатов.
 
 Превью ink-пилота: `http://127.0.0.1:3018/InkPilot`.
-Полный прежний монтаж: `python tools/bootstrap.py preview --project full --port 3019`.
+Полный прежний монтаж: сначала `python tools/bootstrap.py install --project full`,
+затем `python tools/bootstrap.py preview --project full --port 3019`.
 Превью запускается без экспорта и без системного браузера, только на localhost.
 
 ```powershell
