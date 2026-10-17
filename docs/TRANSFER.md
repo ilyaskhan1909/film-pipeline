@@ -5,7 +5,7 @@
 ```powershell
 python tools/project_transfer.py audit
 python tools/project_transfer.py pack
-git bundle create transfers/film-pipeline.bundle --all
+git bundle create transfers/film-pipeline.bundle main HEAD
 git bundle verify transfers/film-pipeline.bundle
 ```
 
@@ -14,6 +14,7 @@ dry narration, стемы и master, старый полный фильм, мо�
 метаданные и ComfyUI-входы. SHA256 каждого файла — в манифесте внутри архива;
 SHA256 архива — рядом. Кеши, окружения, node_modules, учётные данные и Docker
 user-база не переносятся. Готовые вложенные ZIP не дублируются.
+В Git-пакет включается только main/HEAD, без служебных refs приложения.
 
 Веса можно скачать заново (`python tools/bootstrap.py models`) либо перенести:
 
