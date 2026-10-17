@@ -1,0 +1,66 @@
+{
+  "source_run_id": "production-12d2331428ec739d",
+  "rate": 48000,
+  "channels": 2,
+  "duration": 698.4166666666666,
+  "voice_before": {
+    "input_i": "-20.93",
+    "input_tp": "-3.95",
+    "input_lra": "6.90",
+    "input_thresh": "-32.10",
+    "output_i": "-17.21",
+    "output_tp": "-1.50",
+    "output_lra": "6.20",
+    "output_thresh": "-28.41",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.79"
+  },
+  "mix_before": {
+    "input_i": "-17.99",
+    "input_tp": "-1.50",
+    "input_lra": "6.20",
+    "input_thresh": "-29.21",
+    "output_i": "-15.71",
+    "output_tp": "-1.50",
+    "output_lra": "6.00",
+    "output_thresh": "-26.94",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.29"
+  },
+  "master_measured": {
+    "input_i": "-15.98",
+    "input_tp": "-1.50",
+    "input_lra": "6.10",
+    "input_thresh": "-27.21",
+    "output_i": "-15.94",
+    "output_tp": "-1.50",
+    "output_lra": "5.90",
+    "output_thresh": "-27.16",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.06"
+  },
+  "cues": [
+    {
+      "type": "original illustrative wood snap",
+      "seconds": 105.917,
+      "beat": 4
+    },
+    {
+      "type": "original illustrative wood snap",
+      "seconds": 158.918,
+      "beat": 6
+    },
+    {
+      "type": "original illustrative wood snap",
+      "seconds": 676.157,
+      "beat": 25
+    }
+  ],
+  "notes": [
+    "Daytime: one non-looped nille forest excerpt; no daytime birds under night scenes.",
+    "Very quiet synthetic insect texture stops when Mark enters the woods; no repeated music loop.",
+    "Sparse original fire ticks, removed during the deliberate silence beat."
+  ],
+  "auditory_approval": false,
+  "warning": "Stems require listening; measured loudness alone is not sound-quality approval."
+}

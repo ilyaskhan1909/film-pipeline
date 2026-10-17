@@ -49,6 +49,9 @@
 !/outputs/*/edit/remotion/package-lock.json
 !/outputs/*/edit/remotion/tsconfig.json
 !/outputs/*/edit/remotion/remotion.config.ts
+!/outputs/first-film/edit/remotion/timeline.json
+!/outputs/first-film/edit/remotion/DESIGN.md
+!/outputs/first-film/edit/remotion/sound_review.json
 
 **/node_modules/
 **/__pycache__/

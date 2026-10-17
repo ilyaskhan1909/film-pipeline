@@ -20,14 +20,15 @@ def main():
     for name, version in package['dependencies'].items():
         if lock['packages']['node_modules/' + name]['version'] != version:
             raise RuntimeError('Dependency does not match the preserved lock: ' + name)
-    target.parent.mkdir(parents=True, exist_ok=True)
     content = json.dumps(lock, indent=2) + '\n'
-    if target.exists():
-        if target.read_text() != content:
-            raise FileExistsError('Different existing lock preserved')
-    else:
-        target.write_text(content, encoding='utf-8')
-    print(target)
+    for target in (target, ROOT / 'outputs/graphic-novel-v8/edit/remotion/package-lock.json'):
+        target.parent.mkdir(parents=True, exist_ok=True)
+        if target.exists():
+            if target.read_text() != content:
+                raise FileExistsError('Different existing lock preserved')
+        else:
+            target.write_text(content, encoding='utf-8')
+        print(target)
 
 
 if __name__ == '__main__':

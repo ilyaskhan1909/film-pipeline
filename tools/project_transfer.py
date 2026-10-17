@@ -91,6 +91,10 @@ def sources(root=ROOT):
                  'outputs/local-production-v6/videogenerator-v6-kaggle-video-only.ipynb'):
         if (root / name).is_file():
             paths.add(root / name)
+    for name in ('timeline.json', 'DESIGN.md', 'sound_review.json'):
+        path = root / 'outputs/first-film/edit/remotion' / name
+        if path.is_file():
+            paths.add(path)
     return sorted(p for p in paths if p.is_file() and not linked(p))
 
 

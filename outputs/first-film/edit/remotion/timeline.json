@@ -1,0 +1,795 @@
+{
+  "source_run_id": "production-12d2331428ec739d",
+  "fps": 24,
+  "frames": 16762,
+  "seconds": 698.4166666666666,
+  "beats": [
+    {
+      "beat": 0,
+      "start_frame": 36,
+      "frames": 1153,
+      "audio_frames": 1137,
+      "gap_frames": 16,
+      "dry_audio": "assets/s0000.wav",
+      "shots": [
+        {
+          "id": "shot-000",
+          "start_frame": 36,
+          "frames": 407,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-001",
+          "start_frame": 443,
+          "frames": 253,
+          "anchor": "The water was",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-003",
+          "start_frame": 696,
+          "frames": 48,
+          "anchor": "We swam",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-004",
+          "start_frame": 744,
+          "frames": 117,
+          "anchor": "we grilled",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-005",
+          "start_frame": 861,
+          "frames": 328,
+          "anchor": "we told ghost",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 1,
+      "start_frame": 1189,
+      "frames": 377,
+      "audio_frames": 358,
+      "gap_frames": 19,
+      "dry_audio": "assets/s0001.wav",
+      "shots": [
+        {
+          "id": "shot-006",
+          "start_frame": 1189,
+          "frames": 124,
+          "anchor": null,
+          "dissolve_frames": 8
+        },
+        {
+          "id": "shot-007",
+          "start_frame": 1313,
+          "frames": 253,
+          "anchor": "That feeling",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 2,
+      "start_frame": 1566,
+      "frames": 755,
+      "audio_frames": 736,
+      "gap_frames": 19,
+      "dry_audio": "assets/s0002.wav",
+      "shots": [
+        {
+          "id": "shot-008",
+          "start_frame": 1566,
+          "frames": 206,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-009",
+          "start_frame": 1772,
+          "frames": 213,
+          "anchor": "The distant",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-010",
+          "start_frame": 1985,
+          "frames": 336,
+          "anchor": "It was a peaceful sound",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 3,
+      "start_frame": 2321,
+      "frames": 77,
+      "audio_frames": 60,
+      "gap_frames": 17,
+      "dry_audio": "assets/s0003.wav",
+      "shots": [
+        {
+          "id": "shot-011",
+          "start_frame": 2321,
+          "frames": 77,
+          "anchor": null,
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 4,
+      "start_frame": 2398,
+      "frames": 675,
+      "audio_frames": 657,
+      "gap_frames": 18,
+      "dry_audio": "assets/s0004.wav",
+      "shots": [
+        {
+          "id": "shot-014",
+          "start_frame": 2398,
+          "frames": 331,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-036",
+          "start_frame": 2729,
+          "frames": 50,
+          "anchor": "It was close",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-033",
+          "start_frame": 2779,
+          "frames": 294,
+          "anchor": "So close",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 5,
+      "start_frame": 3073,
+      "frames": 358,
+      "audio_frames": 346,
+      "gap_frames": 12,
+      "dry_audio": "assets/s0005.wav",
+      "shots": [
+        {
+          "id": "shot-015",
+          "start_frame": 3073,
+          "frames": 160,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-016",
+          "start_frame": 3233,
+          "frames": 198,
+          "anchor": "he said poking",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 6,
+      "start_frame": 3431,
+      "frames": 1132,
+      "audio_frames": 1116,
+      "gap_frames": 16,
+      "dry_audio": "assets/s0006.wav",
+      "shots": [
+        {
+          "id": "shot-017",
+          "start_frame": 3431,
+          "frames": 284,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-018",
+          "start_frame": 3715,
+          "frames": 268,
+          "anchor": "A few minutes later",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-019",
+          "start_frame": 3983,
+          "frames": 580,
+          "anchor": "We all went silent",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 7,
+      "start_frame": 4563,
+      "frames": 454,
+      "audio_frames": 442,
+      "gap_frames": 12,
+      "dry_audio": "assets/s0007.wav",
+      "shots": [
+        {
+          "id": "shot-020",
+          "start_frame": 4563,
+          "frames": 454,
+          "anchor": null,
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 8,
+      "start_frame": 5017,
+      "frames": 340,
+      "audio_frames": 327,
+      "gap_frames": 13,
+      "dry_audio": "assets/s0008.wav",
+      "shots": [
+        {
+          "id": "shot-022",
+          "start_frame": 5017,
+          "frames": 258,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-023",
+          "start_frame": 5275,
+          "frames": 82,
+          "anchor": "Probably just weird",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 9,
+      "start_frame": 5357,
+      "frames": 1268,
+      "audio_frames": 1250,
+      "gap_frames": 18,
+      "dry_audio": "assets/s0009.wav",
+      "shots": [
+        {
+          "id": "shot-027",
+          "start_frame": 5357,
+          "frames": 200,
+          "anchor": null,
+          "dissolve_frames": 8
+        },
+        {
+          "id": "shot-039",
+          "start_frame": 5557,
+          "frames": 795,
+          "anchor": "We spent the next hour",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-024",
+          "start_frame": 6352,
+          "frames": 96,
+          "anchor": "One from the north",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-025",
+          "start_frame": 6448,
+          "frames": 177,
+          "anchor": "Then another from the east",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 10,
+      "start_frame": 6625,
+      "frames": 339,
+      "audio_frames": 329,
+      "gap_frames": 10,
+      "dry_audio": "assets/s0010.wav",
+      "shots": [
+        {
+          "id": "shot-028",
+          "start_frame": 6625,
+          "frames": 162,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-029",
+          "start_frame": 6787,
+          "frames": 177,
+          "anchor": "I have had enough",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 11,
+      "start_frame": 6964,
+      "frames": 678,
+      "audio_frames": 659,
+      "gap_frames": 19,
+      "dry_audio": "assets/s0011.wav",
+      "shots": [
+        {
+          "id": "shot-030",
+          "start_frame": 6964,
+          "frames": 479,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-032",
+          "start_frame": 7443,
+          "frames": 116,
+          "anchor": "We watched",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-033",
+          "start_frame": 7559,
+          "frames": 83,
+          "anchor": "until the forest",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 12,
+      "start_frame": 7642,
+      "frames": 610,
+      "audio_frames": 586,
+      "gap_frames": 24,
+      "dry_audio": "assets/s0012.wav",
+      "shots": [
+        {
+          "id": "shot-034",
+          "start_frame": 7642,
+          "frames": 163,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-035",
+          "start_frame": 7805,
+          "frames": 309,
+          "anchor": "The silence that fell",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-036",
+          "start_frame": 8114,
+          "frames": 138,
+          "anchor": "Ten minutes",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 13,
+      "start_frame": 8252,
+      "frames": 375,
+      "audio_frames": 363,
+      "gap_frames": 12,
+      "dry_audio": "assets/s0013.wav",
+      "shots": [
+        {
+          "id": "shot-037",
+          "start_frame": 8252,
+          "frames": 217,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-038",
+          "start_frame": 8469,
+          "frames": 158,
+          "anchor": "though her voice",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 14,
+      "start_frame": 8627,
+      "frames": 606,
+      "audio_frames": 594,
+      "gap_frames": 12,
+      "dry_audio": "assets/s0014.wav",
+      "shots": [
+        {
+          "id": "shot-039",
+          "start_frame": 8627,
+          "frames": 357,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-040",
+          "start_frame": 8984,
+          "frames": 249,
+          "anchor": "you get in the car",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 15,
+      "start_frame": 9233,
+      "frames": 1146,
+      "audio_frames": 1129,
+      "gap_frames": 17,
+      "dry_audio": "assets/s0015.wav",
+      "shots": [
+        {
+          "id": "shot-041",
+          "start_frame": 9233,
+          "frames": 125,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-042",
+          "start_frame": 9358,
+          "frames": 390,
+          "anchor": "I grabbed my own",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-043",
+          "start_frame": 9748,
+          "frames": 266,
+          "anchor": "the trees forming",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-044",
+          "start_frame": 10014,
+          "frames": 365,
+          "anchor": "The air was cold",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 16,
+      "start_frame": 10379,
+      "frames": 167,
+      "audio_frames": 150,
+      "gap_frames": 17,
+      "dry_audio": "assets/s0016.wav",
+      "shots": [
+        {
+          "id": "shot-046",
+          "start_frame": 10379,
+          "frames": 37,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-045",
+          "start_frame": 10416,
+          "frames": 130,
+          "anchor": "Only the soft crunch",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 17,
+      "start_frame": 10546,
+      "frames": 759,
+      "audio_frames": 740,
+      "gap_frames": 19,
+      "dry_audio": "assets/s0017.wav",
+      "shots": [
+        {
+          "id": "shot-046",
+          "start_frame": 10546,
+          "frames": 180,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-047",
+          "start_frame": 10726,
+          "frames": 276,
+          "anchor": "I found Mark’s flashlight",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-048",
+          "start_frame": 11002,
+          "frames": 60,
+          "anchor": "the gnarled roots",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-049",
+          "start_frame": 11062,
+          "frames": 243,
+          "anchor": "But there was no sign",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 18,
+      "start_frame": 11305,
+      "frames": 272,
+      "audio_frames": 260,
+      "gap_frames": 12,
+      "dry_audio": "assets/s0018.wav",
+      "shots": [
+        {
+          "id": "shot-050",
+          "start_frame": 11305,
+          "frames": 272,
+          "anchor": null,
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 19,
+      "start_frame": 11577,
+      "frames": 940,
+      "audio_frames": 926,
+      "gap_frames": 14,
+      "dry_audio": "assets/s0019.wav",
+      "shots": [
+        {
+          "id": "shot-051",
+          "start_frame": 11577,
+          "frames": 401,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-052",
+          "start_frame": 11978,
+          "frames": 164,
+          "anchor": "two mismatched black buttons",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-053",
+          "start_frame": 12142,
+          "frames": 375,
+          "anchor": "It was holding",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 20,
+      "start_frame": 12517,
+      "frames": 310,
+      "audio_frames": 288,
+      "gap_frames": 22,
+      "dry_audio": "assets/s0020.wav",
+      "shots": [
+        {
+          "id": "shot-054",
+          "start_frame": 12517,
+          "frames": 310,
+          "anchor": null,
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 21,
+      "start_frame": 12827,
+      "frames": 711,
+      "audio_frames": 701,
+      "gap_frames": 10,
+      "dry_audio": "assets/s0021.wav",
+      "shots": [
+        {
+          "id": "shot-056",
+          "start_frame": 12827,
+          "frames": 202,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-057",
+          "start_frame": 13029,
+          "frames": 241,
+          "anchor": "I turned to run",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-058",
+          "start_frame": 13270,
+          "frames": 268,
+          "anchor": "But as I spun around",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 22,
+      "start_frame": 13538,
+      "frames": 187,
+      "audio_frames": 171,
+      "gap_frames": 16,
+      "dry_audio": "assets/s0022.wav",
+      "shots": [
+        {
+          "id": "shot-059",
+          "start_frame": 13538,
+          "frames": 187,
+          "anchor": null,
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 23,
+      "start_frame": 13725,
+      "frames": 1455,
+      "audio_frames": 1433,
+      "gap_frames": 22,
+      "dry_audio": "assets/s0023.wav",
+      "shots": [
+        {
+          "id": "shot-060",
+          "start_frame": 13725,
+          "frames": 503,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-064",
+          "start_frame": 14228,
+          "frames": 168,
+          "anchor": "Their shapes were indistinct",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-063",
+          "start_frame": 14396,
+          "frames": 528,
+          "anchor": "I could not make out",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-062",
+          "start_frame": 14924,
+          "frames": 256,
+          "anchor": "And I saw that each",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 24,
+      "start_frame": 15180,
+      "frames": 922,
+      "audio_frames": 903,
+      "gap_frames": 19,
+      "dry_audio": "assets/s0024.wav",
+      "shots": [
+        {
+          "id": "shot-063",
+          "start_frame": 15180,
+          "frames": 399,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-064",
+          "start_frame": 15579,
+          "frames": 348,
+          "anchor": "One of the figures",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-066",
+          "start_frame": 15927,
+          "frames": 175,
+          "anchor": "not at me",
+          "dissolve_frames": 0
+        }
+      ]
+    },
+    {
+      "beat": 25,
+      "start_frame": 16102,
+      "frames": 660,
+      "audio_frames": 588,
+      "gap_frames": 72,
+      "dry_audio": "assets/s0025.wav",
+      "shots": [
+        {
+          "id": "shot-068",
+          "start_frame": 16102,
+          "frames": 265,
+          "anchor": null,
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-069",
+          "start_frame": 16367,
+          "frames": 153,
+          "anchor": "It was immediately followed",
+          "dissolve_frames": 0
+        },
+        {
+          "id": "shot-070",
+          "start_frame": 16520,
+          "frames": 242,
+          "anchor": "It was a sound",
+          "dissolve_frames": 0
+        }
+      ]
+    }
+  ],
+  "review_flags": [],
+  "status": "editorial_review_required",
+  "text_form_adjudications": [
+    {
+      "index": 4,
+      "audio_sha256": "f56f20cc6e3f330603792a08938e561efb222d360fd99ddd93fd6af1425c34ca",
+      "raw_differences": [
+        {
+          "type": "replace",
+          "expected": [
+            "shockwave"
+          ],
+          "heard": [
+            "shock",
+            "wave"
+          ]
+        }
+      ],
+      "classification": "text_form_equivalence",
+      "reason": "Compound-word spacing; the spoken phrase is equivalent."
+    },
+    {
+      "index": 14,
+      "audio_sha256": "f58e569cb4ae00dd0a8ad0d7e9a798924faca9efa2994cf4b3d168c9e327bdc1",
+      "raw_differences": [
+        {
+          "type": "replace",
+          "expected": [
+            "fifteen"
+          ],
+          "heard": [
+            "15"
+          ]
+        }
+      ],
+      "classification": "text_form_equivalence",
+      "reason": "Same number written as an English word or digits."
+    },
+    {
+      "index": 23,
+      "audio_sha256": "7476777791f170541d3502d328d4bf965d1104205faa44596cacc3f64daf29dd",
+      "raw_differences": [
+        {
+          "type": "replace",
+          "expected": [
+            "doll's"
+          ],
+          "heard": [
+            "dolls"
+          ]
+        }
+      ],
+      "classification": "text_form_equivalence",
+      "reason": "Possessive singular and plural share the same pronunciation here."
+    }
+  ],
+  "listening_approval": false,
+  "resolution_note": "Generated sources are 1536×864; delivery is gently scaled to 1920×1080, not native 1080 generation."
+}
