@@ -1,0 +1,19 @@
+{
+  "name": "the-last-firework-local-v6",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "preview": "remotion studio src/index.tsx --no-open",
+    "captions": "node scripts/captions.mjs",
+    "render": "remotion render src/index.tsx Film out/The_Last_Firework_v6_1080p.mp4 --codec=h264 --crf=18 --audio-codec=aac --audio-bitrate=384k --pixel-format=yuv420p --color-space=bt709 --concurrency=2"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.532",
+    "@remotion/cli": "4.0.532",
+    "@remotion/fonts": "4.0.532",
+    "@remotion/media": "4.0.532",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.532"
+  }
+}

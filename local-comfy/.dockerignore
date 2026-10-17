@@ -1,0 +1,12 @@
+data/
+reports/
+__pycache__/
+*.partial
+*.log
+.git/
+workflows/
+README.txt
+manage.ps1
+comfy_client.py
+gpu_probe.py
+verify_setup.py
